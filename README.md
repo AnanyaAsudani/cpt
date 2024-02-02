@@ -2,7 +2,7 @@
 
 Use this project to create a Flask Server.
 
-GitHub link: https://github.com/nighthawkcoders/cpt
+GitHub link: https://github.com/nighthawkcoers/cpt
 
 ## Getting Started
 
